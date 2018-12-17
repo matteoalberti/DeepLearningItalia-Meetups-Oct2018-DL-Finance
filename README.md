@@ -15,5 +15,5 @@ This Repository shows all the code and Presentation of DeepLearingItalia Meetup 
 
 
 ## Enjoy :) 
-![](imgs/aa22.gif)
+![](imgs/aaa2.gif)
 
